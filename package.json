@@ -1,5 +1,5 @@
 {
-  "name": "my-vue-project",
+  "name": "student-management-system",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "firebase": "^10.3.1",
+    "sass": "^1.66.1",
+    "sass-loader": "^13.3.2",
+    "uid": "^2.0.2",
+    "vue": "^3.2.13",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

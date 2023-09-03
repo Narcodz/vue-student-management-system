@@ -1,4 +1,4 @@
-# my-vue-project
+# student-management-system
 
 ## Project setup
 ```
